@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace VegetableNinja
+﻿namespace VegetableNinja.Core
 {
+    using System;
+
     using Contracts;
 
     using Models.Vegetables;
@@ -28,9 +24,6 @@ namespace VegetableNinja
                     return new Royal();
                 default:
                     throw new ArgumentException();
-                    
-
-
             }
         }
     }

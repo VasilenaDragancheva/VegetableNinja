@@ -1,4 +1,4 @@
-﻿namespace VegetableNinja
+﻿namespace VegetableNinja.Core
 {
     using System;
     using System.Collections.Generic;

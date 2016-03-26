@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\VegetableNinja\VegetableNinja\bin\Debug\VegetableNinja.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\VegetableNinja\VegetableNinja\bin\Debug\VegetableNinja.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\VegetableNinja\VegetableNinja\bin\Debug\VegetableNinja.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\VegetableNinja\VegetableNinja\obj\Debug\VegetableNinja.pdb
